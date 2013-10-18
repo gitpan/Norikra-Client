@@ -27,12 +27,13 @@ no_index:
 provides:
   Norikra::Client:
     file: lib/Norikra/Client.pm
-    version: 0.01
+    version: 0.02
 requires:
+  Data::MessagePack: 0
   MessagePack::RPC::HTTP::Client: 0
   perl: 5.008005
 resources:
   bugtracker: https://github.com/tagomoris/p5-Norikra-Client/issues
   homepage: https://github.com/tagomoris/p5-Norikra-Client
   repository: git://github.com/tagomoris/p5-Norikra-Client.git
-version: 0.01
+version: 0.02
