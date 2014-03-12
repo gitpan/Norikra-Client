@@ -33,6 +33,8 @@ Norikra::Client - Client library for Norikra (https://github.com/tagomoris/norik
     #           ]
     #         ];
 
+    $client->see("query1"); # this doesn't delete events on server
+
     $client->sweep; # or $client->sweep("query_group_name");
 
     my $targets = $client->targets;

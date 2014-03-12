@@ -5,6 +5,7 @@ META.json
 README.md
 cpanfile
 lib/Norikra/Client.pm
+minil.toml
 t/00_compile.t
 META.yml
 MANIFEST

@@ -54,19 +54,19 @@
    "provides" : {
       "Norikra::Client" : {
          "file" : "lib/Norikra/Client.pm",
-         "version" : "0.02"
+         "version" : "0.03"
       }
    },
    "release_status" : "stable",
    "resources" : {
       "bugtracker" : {
-         "web" : "https://github.com/tagomoris/p5-Norikra-Client/issues"
+         "web" : "https://github.com/norikra/norikra-client-perl/issues"
       },
-      "homepage" : "https://github.com/tagomoris/p5-Norikra-Client",
+      "homepage" : "https://github.com/norikra/norikra-client-perl",
       "repository" : {
-         "url" : "git://github.com/tagomoris/p5-Norikra-Client.git",
-         "web" : "https://github.com/tagomoris/p5-Norikra-Client"
+         "url" : "git://github.com/norikra/norikra-client-perl.git",
+         "web" : "https://github.com/norikra/norikra-client-perl"
       }
    },
-   "version" : "0.02"
+   "version" : "0.03"
 }
